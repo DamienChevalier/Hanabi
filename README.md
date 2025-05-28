@@ -1,3 +1,4 @@
+
 # Hanabi
 ## Règles du jeu
 Le Hanabi est un jeu de cartes coopératif. Les cartes utilisées sont de 5 couleurs : rouge, jaune, vert, bleu et blanc; et elles représentent les chiffres de 1 à 5.
@@ -37,4 +38,7 @@ Les états et les messages à communiquer par queue sont codées à l'aide d'enu
 Par manque de temps, seul l'écran titre et l'écran de choix de créer ou rejoindre une partie ont été créés. Le temps manquant a été utilisé pour tenter de faire fonctionner LWIP, en vain.
 Le jeu n'ayant aucun intérêt sans multijoueur, le développement s'est arrêté là.
 
+
 ## Schéma de fonctionnement: 
+![taches](https://github.com/user-attachments/assets/caddb8f0-74e9-4dcd-81d4-8d47c8fbba3d)
+
